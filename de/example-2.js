@@ -1,3 +1,3 @@
 export default {
-    'yet-another-string-to-localize': 'ываыва', // Page title
+    'yet-another-string-to-localize': 'Hello, world!', // Page title
 }; 
